@@ -1,0 +1,13 @@
+Package: salt
+Type: Package
+Title: SAtellite anaLysis Tools 
+Version: 0.1
+Date: 2014-08-01
+Author: Marco D. Visser
+Maintainer: Marco D. Visser <marco.d.visser@gmail.com>
+Description: A set of tools to ease working with satellite 
+	products
+License: GPL-2
+URL: http://github.com/MarcoDVisser/salt
+BugReports: http://github.com/MarcoDVisser/salt/issues
+LazyData: false
