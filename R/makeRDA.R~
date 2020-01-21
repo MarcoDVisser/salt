@@ -1,2 +1,0 @@
-bands=read.csv("./src/bands.csv")
-> save(bands,file="~/symlinks/git/salt/data/bands.rda")
