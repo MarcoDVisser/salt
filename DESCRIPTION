@@ -11,3 +11,8 @@ License: GPL-2
 URL: http://github.com/MarcoDVisser/salt
 BugReports: http://github.com/MarcoDVisser/salt/issues
 LazyData: false
+RoxygenNote: 7.0.2
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
